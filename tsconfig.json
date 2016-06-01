@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "outDir": "out"
+  },
+  "exclude": [
+    "node_modules",
+    "typings/globals",
+    "typings/modules",
+    "out",
+    "source"
+  ]
+}

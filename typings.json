@@ -1,0 +1,15 @@
+{
+  "name": "text-buffer",
+  "main": "lib/text-buffer.d.ts",
+  "homepage": "https://github.com/atom/text-buffer#readme",
+  "version": "9.1.0",
+  "globalDevDependencies": {
+    "node": "registry:env/node#4.0.0+20160507210304"
+  },
+  "devDependencies": {
+    "blue-tape": "registry:npm/blue-tape#0.2.0+20160418015423"
+  },
+  "dependencies": {
+    "event-kit": "registry:npm/event-kit#2.0.0+20160531182013"
+  }
+}
