@@ -25,6 +25,6 @@
     "typings": "^2.1.1"
   },
   "dependencies": {
-    "@types/event-kit": "^1.2.30"
+    "@types/event-kit": "^2.0.0"
   }
 }
